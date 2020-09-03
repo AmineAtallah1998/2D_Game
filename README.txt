@@ -1,4 +1,4 @@
-WELCOME TO ENIGMA
+WELCOME TO ENIGMA : A 2D GRID BASED GAME
 
 (Alan Turing likes this.) 
 
