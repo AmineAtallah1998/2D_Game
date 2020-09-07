@@ -1,3 +1,7 @@
+-> Images from the game:
+
+<img src="2D_Game_Images/Game1.png">
+
 WELCOME TO ENIGMA : A 2D GRID BASED GAME
  
 (Alan Turing likes this.) 
@@ -45,7 +49,3 @@ _________________________
 =================================================================
                           ENJOY !    
 =================================================================
-
--> Images from the game:
-
-<img src="2D_Game_Images/Game1.png">
