@@ -48,8 +48,8 @@ _________________________
 
 -> Images from the game:
 
-<img src="2D_Game_Images/Game1">
+<img src="2D_Game_Images/Game1.png">
 
-<img src="2D_Game_Images/Game2">
+<img src="2D_Game_Images/Game2.png">
 
-<img src="2D_Game_Images/Game3">
+<img src="2D_Game_Images/Game3.png">
